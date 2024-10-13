@@ -65,4 +65,6 @@
 
 <h2> 🏆 Stats </h2> 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mybajwk&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">   
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mybajwk&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
