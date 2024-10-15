@@ -1,7 +1,7 @@
-<h1 align="center"><b>Hi, I'm Enrique Yanuar</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h4 align="center">A second-year Informatics Engineering student at Institut Teknologi Bandung</h4>
+<h1 align="center"><b>Hi, I'm Enrique Yanuar</b></h1>
+<h4 align="center">A third-year Informatics Engineering student at Institut Teknologi Bandung</h4>
 
-<h2> 👩 About Me </h2>
+<h2> About Me </h2>
 <p align="justify">
     I'm passionate about software engineering, with experience in developing full-stack applications, building APIs, and solving challenging problems through algorithms. My focus is on writing clean, efficient code and building scalable systems. I am also skilled in container orchestration and event-driven architectures.
 </p>
