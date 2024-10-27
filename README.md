@@ -61,7 +61,11 @@
       <a href="mailto:enriqueyanuar.7@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="Enrique Yanuar" height="30"/></a>
+      <a href="https://enriqueyanuar.pro" target="blank"><img align="center"
+         src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"
+         alt="Portfolio" height="30"/></a>
 </p>
+
 
 <h2> 🏆 Stats </h2> 
 
