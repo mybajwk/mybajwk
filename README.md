@@ -1,9 +1,13 @@
 <h1 align="center"><b>Hi, I'm Enrique Yanuar</b></h1>
-<h4 align="center">A third-year Informatics Engineering student at Institut Teknologi Bandung</h4>
+<h4 align="center">Final-year Informatics Engineering student at Institut Teknologi Bandung</h4>
 
-<h2> About Me </h2>
+<h2>About Me</h2>
 <p align="justify">
-    I'm passionate about software engineering, with experience in developing full-stack applications, building APIs, and solving challenging problems through algorithms. My focus is on writing clean, efficient code and building scalable systems. I am also skilled in container orchestration and event-driven architectures.
+    I am a final-year Informatics Engineering student with a strong passion for software engineering. 
+    I have experience in developing full-stack applications, designing and consuming APIs, and solving 
+    complex problems through efficient algorithms and system design. I focus on writing clean, maintainable, 
+    and efficient code while building scalable and reliable systems. Additionally, I have hands-on experience 
+    with container orchestration and event-driven architectures.
 </p>
 
 <h2> 💻 Skills </h2> 
